@@ -49,3 +49,8 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+
+li.bold {
+  font-weight: bold;
+  color: red;
+}
